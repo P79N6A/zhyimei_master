@@ -1,0 +1,62 @@
+1511527235304	geckodriver	INFO	Listening on 127.0.0.1:7498
+1511527237335	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1511527238138	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 5496, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5496, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511527240010	Marionette	INFO	Listening on port 7504
+1511527240522	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511527240580	Marionette	DEBUG	Register listener.js for window 4294967297
+1511527240605	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511527261631	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511527261633	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511527261633	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511527261663	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "about:neterror?e=netTimeout&u=http%3A//172.16.4.120/5kcrm/index.php%3Fm%3Duser%26a%3Dlogin&c=UTF-8&f=regular&d=172.16.4.120%20%E7%9A%84%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%93%8D%E5%BA%94%E6%97%B6%E9%97%B4%E8%BF%87%E9%95%BF%E3%80%82"
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 4908, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 4860, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 5324, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 6288, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+t "pagehide" for "http://172.16.4.120/5kcrm/index.php?m=user&a=login"
+1510543173570	Marionette	DEBUG	Received DOM event "unload" for "http://172.16.4.120/5kcrm/index.php?m=user&a=login"
+1510543174063	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://172.16.4.120/5kcrm/index.php?m=dynamic&a=index"
+1510543174085	Marionette	DEBUG	Received DOM event "pageshow" for "http://172.16.4.120/5kcrm/index.php?m=dynamic&a=index"
+1510543174175	Marionette	DEBUG	Received DOM event "beforeunload" for "http://172.16.4.120/5kcrm/index.php?m=dynamic&a=index"
+1510543175152	Marionette	DEBUG	Received DOM event "pagehide" for "http://172.16.4.120/5kcrm/index.php?m=dynamic&a=index"
+1510543175152	Marionette	DEBUG	Received DOM event "unload" for "http://172.16.4.120/5kcrm/index.php?m=dynamic&a=index"
+1510543175654	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://172.16.4.120/5kcrm/index.php?m=customer"
+1510543175704	Marionette	DEBUG	Received DOM event "pageshow" for "http://172.16.4.120/5kcrm/index.php?m=customer"
+1510543177760	Marionette	DEBUG	Received DOM event "beforeunload" for "http://172.16.4.120/5kcrm/index.php?m=customer"
+1510543178273	Marionette	DEBUG	Received DOM event "pagehide" for "http://172.16.4.120/5kcrm/index.php?m=customer"
+1510543178274	Marionette	DEBUG	Received DOM event "unload" for "http://172.16.4.120/5kcrm/index.php?m=customer"
+1510543178698	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://172.16.4.120/5kcrm/index.php?m=customer&a=add"
+1510543178732	Marionette	DEBUG	Received DOM event "pageshow" for "http://172.16.4.120/5kcrm/index.php?m=customer&a=add"
+1510543185113	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510543185341	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510543187484	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510543187767	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510543190000	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510543192228	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510543194458	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510543196685	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510543214007	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1510543215230	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510543219335	Marionette	DEBUG	Received DOM event "beforeunload" for "http://172.16.4.120/5kcrm/index.php?m=customer&a=add"
+1510543220379	Marionette	DEBUG	Received DOM event "pagehide" for "http://172.16.4.120/5kcrm/index.php?m=customer&a=add"
+1510543220380	Marionette	DEBUG	Received DOM event "unload" for "http://172.16.4.120/5kcrm/index.php?m=customer&a=add"
+1510543220754	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://172.16.4.120/5kcrm/index.php?m=customer"
+1510543220812	MarioneUnable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 3900] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3900] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 5400] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5400] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+469	Marionette	INFO	New connections will no longer be accepted
+index.php?m=user&a=logout"
+1510542812149	Marionette	INFO	New connections will no longer be accepted
+s will no longer be accepted
+[Parent 2688] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346

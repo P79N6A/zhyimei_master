@@ -1,0 +1,65 @@
+1510559224481	geckodriver	INFO	Listening on 127.0.0.1:42537
+1510559226496	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1510559226698	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1510559227097	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 2056] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1510559228676	Marionette	INFO	Listening on port 42547
+1510559229613	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510559229651	Marionette	DEBUG	Register listener.js for window 6442450945
+1510559229683	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510559229741	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510559229742	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510559229882	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://172.16.4.120/wind/login.php"
+1510559229884	Marionette	DEBUG	Received DOM event "pageshow" for "http://172.16.4.120/wind/login.php"
+1510559236229	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510559238461	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510559240488	Marionette	DEBUG	Received DOM event "beforeunload" for "http://172.16.4.120/wind/login.php"
+1510559240583	Marionette	DEBUG	Received DOM event "pagehide" for "http://172.16.4.120/wind/login.php"
+1510559240583	Marionette	DEBUG	Received DOM event "unload" for "http://172.16.4.120/wind/login.php"
+1510559240589	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://172.16.4.120/wind/login.php?"
+1510559240592	Marionette	DEBUG	Received DOM event "pageshow" for "http://172.16.4.120/wind/login.php?"
+1510559242672	Marionette	DEBUG	Received DOM event "beforeunload" for "http://172.16.4.120/wind/index.php"
+1510559242735	Marionette	DEBUG	Received DOM event "pagehide" for "http://172.16.4.120/wind/index.php"
+1510559242736	Marionette	DEBUG	Received DOM event "unload" for "http://172.16.4.120/wind/index.php"
+1510559242912	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://172.16.4.120/wind/thread.php?fid=3"
+1510559242914	Marionette	DEBUG	Received DOM event "pageshow" for "http://172.16.4.120/wind/thread.php?fid=3"
+1510559244966	Marionette	DEBUG	Received DOM event "beforeunload" for "http://172.16.4.120/wind/thread.php?fid=3"
+1510559245035	Marionette	DEBUG	Received DOM event "pagehide" for "http://172.16.4.120/wind/thread.php?fid=3"
+1510559245036	Marionette	DEBUG	Received DOM event "unload" for "http://172.16.4.120/wind/thread.php?fid=3"
+1510559245212	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://172.16.4.120/wind/post.php?fid=3"
+1510559245217	Marionette	DEBUG	Received DOM event "pageshow" for "http://172.16.4.120/wind/post.php?fid=3"
+1510559249515	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510559253654	Marionette	DEBUG	Received DOM event "beforeunload" for "http://172.16.4.120/wind/post.php?fid=3"
+1510559253751	Marionette	DEBUG	Received DOM event "pagehide" for "http://172.16.4.120/wind/post.php?fid=3"
+1510559253752	Marionette	DEBUG	Received DOM event "unload" for "http://172.16.4.120/wind/post.php?fid=3"
+1510559253758	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://172.16.4.120/wind/post.php?"
+1510559253761	Marionette	DEBUG	Received DOM event "pageshow" for "http://172.16.4.120/wind/post.php?"
+1510559255840	Marionette	DEBUG	Received DOM event "beforeunload" for "http://172.16.4.120/wind/read.php?tid=1077"
+1510559256198	Marionette	DEBUG	Received DOM event "pagehide" for "http://172.16.4.120/wind/read.php?tid=1077"
+1510559256199	Marionette	DEBUG	Received DOM event "unload" for "http://172.16.4.120/wind/read.php?tid=1077"
+1510559256205	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://172.16.4.120/wind/login.php?action=quit&verify=cb9c7dc7"
+1510559256208	Marionette	DEBUG	Received DOM event "pageshow" for "http://172.16.4.120/wind/login.php?action=quit&verify=cb9c7dc7"
+1510559258246	Marionette	INFO	New connections will no longer be accepted
+&verify=cb9c7dc7"
+1510559212113	Marionette	DEBUG	Received DOM event "pageshow" for "http://172.16.4.120/wind/login.php?action=quit&verify=cb9c7dc7"
+1510559214128	Marionette	INFO	New connections will no longer be accepted
+.120/wind/login.php?action=quit&verify=cb9c7dc7"
+1510556423563	Marionette	INFO	New connections will no longer be accepted
+erTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 4944] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 2376] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2376] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+rc/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath

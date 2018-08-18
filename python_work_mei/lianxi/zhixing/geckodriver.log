@@ -1,0 +1,56 @@
+1511594820500	geckodriver	INFO	Listening on 127.0.0.1:9774
+1511594822509	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1511594823043	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 3416, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3416, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511594824883	Marionette	INFO	Listening on port 9780
+1511594825635	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511594825694	Marionette	DEBUG	Register listener.js for window 4294967297
+1511594825717	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511594838360	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511594838397	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511594838397	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511594838399	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967297"
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 3132, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 1784, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1784, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6404, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6404, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+ource://shield-recipe-client/lib/RecipeRunner.jsm, line 137: TypeError: prefs is undefined
+Promise rejected while context is inactive: Message manager disconnected
+[Parent 5696, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+console.error: 
+  Message: Error: Connection closed before committing the transaction.
+  Stack:
+    executeTransaction/promise</transactionPromise<@resource://gre/modules/Sqlite.jsm:617:19
+observe@resource://gre/modules/AsyncShutdown.jsm:534:9
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+me_ChildThread] WARNING: failed to create pipe: 0: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 221
+[6204, Chrome_ChildThread] WARNING: Unable to create pipe named "7516.27.1646398845\661340450" in client mode.: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 59
+ed page load listener because no navigation has been detected
+1511086192649	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511086194872	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511086197094	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511086199314	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511086201535	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511086219974	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511086224085	Marionette	DEBUG	Received DOM event "beforeunload" for "http://172.16.4.120/5kcrm/index.php?m=customer&a=add"
+1511086225047	Marionette	DEBUG	Received DOM event "pagehide" for "http://172.16.4.120/5kcrm/index.php?m=customer&a=add"
+1511086225047	Marionette	DEBUG	Received DOM event "unload" for "http://172.16.4.120/5kcrm/index.php?m=customer&a=add"
+1511086225435	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://172.16.4.120/5kcrm/index.php?m=customer"
+1511086225497	Marionette	DEBUG	Received DOM event "pageshow" for "http://172.16.4.120/5kcrm/index.php?m=customer"
+1511086228842	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511086228866	Marionette	DEBUG	Received DOM event "beforeunload" for "http://172.16.4.120/5kcrm/index.php?m=customer"
+1511086229076	Marionette	DEBUG	Received DOM event "pagehide" for "http://172.16.4.120/5kcrm/index.php?m=customer"
+1511086229076	Marionette	DEBUG	Received DOM event "unload" for "http://172.16.4.120/5kcrm/index.php?m=customer"
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://172.16.4.120/resources/assets/js/jquery.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://172.16.4.120/resources/assets/js/bootstrap.min.js, line 1: SyntaxError: expected expression, got '<'
+1511086229131	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://172.16.4.120/5kcrm/index.php?m=user&a=logout"
+1511086229140	Marionette	DEBUG	Received DOM event "pageshow" for "http://172.16.4.120/5kcrm/index.php?m=user&a=logout"
