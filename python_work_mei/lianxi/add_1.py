@@ -1,2 +1,1 @@
 print "haha"
-print "zhangsan"
