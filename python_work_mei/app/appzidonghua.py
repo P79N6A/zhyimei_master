@@ -3,8 +3,8 @@ from  appium import webdriver
 import  time
 desired_caps={
     "platformName":"Android",
-    "deviceName":"7f0e043",
-    "patformVerson":"6.0",
+    "deviceName":"4a66b58b",
+    "patformVerson":"7.1",
     "appPackage":"com.android.calculator2",
     "appActivity":"Calculator",
     "unicodeKeyboard":True,
